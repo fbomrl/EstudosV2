@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cédulas</title>
+</head>
+<body>
+
+    <script>
+
+        function validarValor(n) {
+            if (0 < n < 1000000) {
+                return n
+            } else {
+                return "Não é possível incluir esse valor. Favor incluir valor entre 1 e 999999"
+            }
+        }
+        var n = parseInt(prompt("Valor R$ "));
+        var troco = n;
+
+        var nota100=troco/100;
+        var troco=troco-(nota100*100);
+
+        var nota50=troco/50;
+        var troco=troco-(nota50*50);
+
+        var nota20=troco/20;
+        var troco=troco-(nota20*20);
+
+        var nota10=troco/10;
+        var troco=troco-(nota20*10);
+
+        var nota5=troco/5;
+        var troco=troco-(nota20*5);
+
+        var nota2=troco/2;
+        var troco=troco-(nota20*2);
+
+        var nota1=troco/1;
+        var troco=troco-(nota20*1);
+
+        alert(`${n}\n  
+        ${nota100} nota(s) de R$ 100,00\n 
+        ${nota50} nota(s) de R$ 50,00\n 
+        ${nota20} nota(s) de R$ 20,00\n 
+        ${nota10} nota(s) de R$ 10,00\n 
+        ${nota5} nota(s) de R$ 5,00\n 
+        ${nota2} nota(s) de R$ 2,00\n 
+        ${nota1} nota(s) de R$ 1,00\n`);
+    
+
+    </script>
+    
+</body>
+</html>

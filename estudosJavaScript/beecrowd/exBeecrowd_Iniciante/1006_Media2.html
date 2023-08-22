@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Média 2</title>
+</head>
+
+<body>
+
+    <script>
+        function validarNotas(nota) {
+            if (isNaN(nota) || nota < 0 || nota > 10) {
+                alert("Digite um número entre 0 e 10.");
+                return null;
+            }
+            return nota;
+        }
+
+        var A = validarNotas(Number.parseFloat(prompt("Nota A: ")));
+        if (A !== null) {
+            var B = validarNotas(Number.parseFloat(prompt("Nota B: "))); {
+                if (B !== null) {
+                    var C = validarNotas(Number.parseFloat(prompt("Nota C: ")));
+                    if (C !== null) {
+                        var mediaPonderadaA = 2;
+                        var mediaPonderadaB = 3;
+                        var mediaPonderadaC = 5;
+                        var media = (mediaPonderadaA * A 
+                        + mediaPonderadaB * B + 
+                        mediaPonderadaC * C) / (mediaPonderadaA + mediaPonderadaB + mediaPonderadaC);
+
+                        alert(`MEDIA = ${media.toFixed(1)}`);
+
+                    }
+                }
+            }
+        }
+    </script>
+
+</body>
+
+</html>

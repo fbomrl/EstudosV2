@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gasto de Combustível</title>
+</head>
+<body>
+    <script>
+        var tempo = parseInt(prompt("Tempo gasto na viagem(horas): "));
+        var velocidade = parseInt(prompt("Velocidade média(km/h): "));
+        var kmL = 12;
+        var litros =  (tempo * velocidade)/kmL;
+
+        alert(`${litros.toFixed(3)}`);
+
+
+    </script>
+</body>
+</html> 

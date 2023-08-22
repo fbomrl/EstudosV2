@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Área</title>
+</head>
+<body>
+
+    <script>
+        var A = parseFloat(prompt('A = ')).toFixed(1);
+        var B = parseFloat(prompt('B = ')).toFixed(1);
+        var C = parseFloat(prompt('C = ')).toFixed(1);
+
+        var triangulo = (A * C) / 2;
+        var circulo = 3.14159 * (C * C);
+        var trapezio = (A + B) * C / 2;
+        var quadrado = B * 4;
+        var retangulo = A * B;
+
+
+        alert(`TRIANGULO: ${triangulo.toFixed(3)}\n 
+        CIRCULO: ${circulo.toFixed(3)}\n 
+        TRAPEZIO: ${trapezio.toFixed(3)}\n 
+        QUADRADO: ${quadrado.toFixed(3)}\n
+        RETANGULO: ${retangulo.toFixed(3)}`);
+
+    </script>
+    
+</body>
+</html>

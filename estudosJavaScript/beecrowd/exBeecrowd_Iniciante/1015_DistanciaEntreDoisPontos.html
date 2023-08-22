@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Distância entre dois pontos</title>
+</head>
+<body>
+    <script>
+
+        var x1 = parseFloat(prompt("Ponto X1: ")).toFixed(1);
+        var y1 = parseFloat(prompt("Ponto Y1: ")).toFixed(1);
+        var x2 = parseFloat(prompt("Ponto X2: ")).toFixed(1);
+        var y2 = parseFloat(prompt("Ponto Y2: ")).toFixed(1);
+        
+        var distancia = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1,2 ))
+
+        alert(`${distancia.toFixed(4)}`);
+
+    </script>
+</body>
+</html>

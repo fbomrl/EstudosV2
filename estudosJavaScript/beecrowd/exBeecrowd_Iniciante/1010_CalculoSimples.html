@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cálculo Simples</title>
+</head>
+<body>
+
+    <script>
+
+        var codPeca1 = parseInt(prompt("Código da Peça: "));
+        var numeroPeca1 = parseInt(prompt("Número de Peças: "));
+        var valorUnitarioPeca1 = parseFloat(prompt("Valor de cada peça: ")).toFixed(2);
+        var valorPagar1 = numeroPeca1 * valorUnitarioPeca1;
+
+        var codPeca2 = parseInt(prompt("Código da Peça: "));
+        var numeroPeca2 = parseInt(prompt("Número de Peças: "));
+        var valorUnitarioPeca2 = parseFloat(prompt("Valor de cada peça: ")).toFixed(2);
+        var valorPagar2 = numeroPeca2 * valorUnitarioPeca2;
+
+        var valorTotalPagar = valorPagar1 + valorPagar2;
+
+        alert(`VALOR A PAGAR: R$ ${valorTotalPagar.toFixed(2)}`)
+
+
+
+    </script>
+
+</body>
+</html>

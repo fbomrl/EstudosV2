@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salário com bônus</title>
+</head>
+<body>
+    <script>
+        var nomeVendedor = prompt("Nome do vendedor: ");
+        var salarioFixo = parseFloat(prompt("Salário Fixo R$ "));
+        var totalVendas = parseFloat(prompt("Vendas Efetuadas R$"));
+
+        var comissao = (15 * totalVendas) / 100;
+        var salarioTotal = salarioFixo + comissao;
+
+        alert(`TOTAL = R$ ${salarioTotal.toFixed(2)}`)
+
+    </script>
+    
+</body>
+</html>

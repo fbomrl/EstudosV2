@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consumo</title>
+</head>
+<body>
+
+    <script>
+        var X = parseInt(prompt("Distancia total percorrida(KM): "));
+        var Y = parseFloat(prompt("Total combustível gasto (L): ")).toFixed(1);
+        var kmL = X/Y;
+
+        alert(`${kmL.toFixed(3)} km/l`);
+    </script>
+    
+</body>
+</html>

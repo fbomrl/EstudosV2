@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salário</title>
+</head>
+<body>
+
+    <script>
+        
+        var numeroFuncionario = parseInt(prompt("Número do Funcionário: "));
+        var qntHorasTrabalhadas = parseInt(prompt("Quantidade de horas Trabalhadas: "));
+        var valorHoraTrabalhada = parseFloat(prompt("Quanto Recebe por hora trabalhada"));
+        
+        var salario = valorHoraTrabalhada * qntHorasTrabalhadas
+
+        alert(`NUMBER = ${numeroFuncionario}\nSALARY = U$ ${salario.toFixed(2)}`);    
+
+    </script>
+    
+</body>
+</html>
