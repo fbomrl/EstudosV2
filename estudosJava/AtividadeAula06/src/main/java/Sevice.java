@@ -5,6 +5,7 @@ public class Sevice {
         System.out.println("----- CACHORRO -----");
         Cachorro c1 = new Cachorro();
         c1.setNome("Bruce");
+        c1.aumentandoVelocidade();
         c1.diminuindoVelocidade();
         c1.andando();
 
@@ -20,6 +21,7 @@ public class Sevice {
         c2.aumentandoVelocidade();
         c2.andando();
         c2.comendo();
+        c2.emPé();
 
         System.out.println("----- CACHORRO -----");
         Cachorro c3 = new Cachorro();
