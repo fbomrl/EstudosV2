@@ -7,7 +7,8 @@ public class Livro implements Publicacao{
     private Pessoa leitor;
 
     public String detalhes() {
-        return "Livro{" +
+        return "------------------" +
+                "\nLivro{" +
                 "titulo = '" + titulo + '\'' +
                 ",\n autor = '" + autor + '\'' +
                 ",\n totPaginas = " + totPaginas +
@@ -73,7 +74,12 @@ public class Livro implements Publicacao{
 
     @Override
     public void folhear(int pagAtual) {
-        this.pagAtual = pagAtual;
+        if(pagAtual > this.totPaginas){
+            this.pagAtual = 0;
+        }else {
+            this.pagAtual = pagAtual;
+        }
+
     }
 
     @Override
