@@ -12,7 +12,7 @@ public class Dados {
         clube[0] = new Clube("Dinamo Moscou", pessoa[0]);
         clube[1] = new Clube("Shakhtar Donestk", pessoa[1]);
         clube[2] = new Clube("Rangers Glasgow", pessoa[2]);
-        clube[3] = new Clube("Rangers Glasgow", pessoa[3]);
+        clube[3] = new Clube("Sporting", pessoa[3]);
 
         clube[0].plenasCondicoes();
         clube[0].fazerJogos();
@@ -20,9 +20,13 @@ public class Dados {
         clube[0].fazerGols();
         clube[0].fazerGols();
         clube[0].darAssistencias();
-        System.out.println(clube[0].detalhes());
-        System.out.println(clube[1].detalhes());
-        System.out.println(clube[2].detalhes());
+
+            clube[1].fazerJogos();
+            clube[2].fazerJogos();
+            clube[3].fazerJogos();
+            System.out.println(clube[0].detalhes());
+            System.out.println(clube[1].detalhes());
+            System.out.println(clube[2].detalhes());
 
     }
 }
