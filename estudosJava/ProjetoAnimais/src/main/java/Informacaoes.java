@@ -6,6 +6,7 @@ public class Informacaoes {
         Reptil a3 = new Reptil();
         Reptil a4 = new Reptil();
         Reptil a5 = new Reptil();
+        Mamifero a6 = new Mamifero();
 
         a1.setNome("Humano");
         a1.setAltura(175f);
@@ -50,6 +51,15 @@ public class Informacaoes {
         a5.setPossuiPatas(true);
         a5.setSeparacaoVentricular(false);
         a5.setPossuiCarapaca(false);
+
+        a6.setNome("Orangotango");
+        a6.setAltura(100f);
+        a6.setPeso(100f);
+        a6.setVoador(false);
+        a6.setNadador(false);
+        a6.setPorte("Grande");
+        a6.setPelagem("Comprida");
+
 
         a1.inf();
         a2.inf();

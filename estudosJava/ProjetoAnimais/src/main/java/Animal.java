@@ -1,6 +1,6 @@
 import jdk.swing.interop.SwingInterOpUtils;
 
-public class Animal {
+public class  Animal {
     private String nome;
     private float peso;
     private float altura;
