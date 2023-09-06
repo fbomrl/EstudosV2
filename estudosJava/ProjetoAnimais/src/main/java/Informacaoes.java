@@ -7,6 +7,7 @@ public class Informacaoes {
         Reptil a4 = new Reptil();
         Reptil a5 = new Reptil();
         Mamifero a6 = new Mamifero();
+        Roedor a7 = new Roedor();
 
         a1.setNome("Humano");
         a1.setAltura(175f);
@@ -60,12 +61,24 @@ public class Informacaoes {
         a6.setPorte("Grande");
         a6.setPelagem("Comprida");
 
+        a7.setNome("Hamster");
+        a7.setAltura(0.10f);
+        a7.setPeso(0.1f);
+        a7.setNadador(false);
+        a7.setVoador(false);
+        a7.setPorte("Pequeno");
+        a7.setPelagem("Curto");
+        a7.dentesSupIncisivos();
+
 
         a1.inf();
         a2.inf();
         a3.inf();
         a4.inf();
         a5.inf();
+        a6.inf();
+        a7.inf();
+
 
 
 
