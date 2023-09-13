@@ -1,5 +1,7 @@
-package com.example.crud2;
+package com.example.crud2.controller;
 
+import com.example.crud2.model.Carro;
+import com.example.crud2.dao.CarroRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

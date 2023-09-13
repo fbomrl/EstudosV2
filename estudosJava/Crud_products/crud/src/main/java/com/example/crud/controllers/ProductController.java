@@ -27,14 +27,12 @@ public class ProductController {
     public ResponseEntity registerProduct(@RequestBody @Valid RequestProduct data) {
         Product newProduct = new Product(data);
         repository.save(newProduct);
-
         return ResponseEntity.ok().build();
     }
 
     @PutMapping()
     public ResponseEntity updateProduct(@RequestBody @Valid RequestProduct data) {
         Optional<Product> product = repository.findById(data.id());
-
         return  ResponseEntity.ok(product);
     }
 }
