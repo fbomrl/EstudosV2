@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Animal {
+public abstract class Animal {
 
     @Id @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;
@@ -22,17 +22,14 @@ public class Animal {
     private boolean venenoso;
 
     public void podeNadar() {
-        this.nadador = false;
+    this.setNadador(false);
     }
 
     public void podeVoar() {
-        this.nadador = false;
+        this.setVoador(false);
     }
 
     public void possuiVeneno() {
-        this.venenoso = false;
+        this.setVenenoso(false);
     }
-
-
-
 }
