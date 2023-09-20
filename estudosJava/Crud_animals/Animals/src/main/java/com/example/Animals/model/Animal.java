@@ -17,19 +17,20 @@ public abstract class Animal {
     private String nome;
     private float tamanho;
     private float peso;
-    private boolean nadador;
-    private boolean voador;
-    private boolean venenoso;
+    @Enumerated(EnumType.STRING)
+    private Nadador nadador = Nadador.NAO;
+    @Enumerated(EnumType.STRING)
+    private Voador voador = Voador.NAO;
+    @Enumerated(EnumType.STRING)
+    private Veneno veneno = Veneno.NAO;
 
-    public void podeNadar() {
-    this.setNadador(false);
+    public enum Nadador {
+        SIM, NAO
     }
-
-    public void podeVoar() {
-        this.setVoador(false);
+    public enum Voador {
+        SIM, NAO
     }
-
-    public void possuiVeneno() {
-        this.setVenenoso(false);
+    public enum Veneno {
+        SIM, NAO
     }
 }

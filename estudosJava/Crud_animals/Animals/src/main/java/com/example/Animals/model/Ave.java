@@ -13,16 +13,6 @@ public class Ave extends Animal{
     private String corPena;
     private String tipoBico;
 
-    @Override
-    public void podeNadar() {
-    }
 
-    @Override
-    public void podeVoar() {
-    }
-
-    @Override
-    public void possuiVeneno() {
-    }
 }
 

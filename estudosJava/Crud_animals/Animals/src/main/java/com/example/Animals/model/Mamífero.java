@@ -15,16 +15,5 @@ public class Mamífero extends Animal{
     private String tamanhoPelagem;
     private String corPelagem;
 
-    @Override
-    public void podeNadar() {
 
-    }
-    @Override
-    public void podeVoar() {
-
-    }
-    @Override
-    public void possuiVeneno() {
-
-    }
 }
