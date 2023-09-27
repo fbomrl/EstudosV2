@@ -7,15 +7,12 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
 public class Reptil extends Animal{
 
     private String corEscama;
-    @Enumerated(EnumType.STRING)
-    private Tipo tipo;
 
-    public enum Tipo {
+    public enum Ordem {
         TESTUDINES, SQUAMATA, CROCODYLIA, RHYNCHOCEPHALIA
     }
 }

@@ -15,5 +15,4 @@ public class Mamífero extends Animal{
     private String tamanhoPelagem;
     private String corPelagem;
 
-
 }

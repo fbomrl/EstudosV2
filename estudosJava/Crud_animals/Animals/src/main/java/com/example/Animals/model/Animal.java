@@ -1,6 +1,8 @@
 package com.example.Animals.model;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.NotNull;
+import jakarta.validation.constraints.Pattern;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -10,13 +12,22 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+
 public abstract class Animal {
 
     @Id @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;
+    @NotNull(message = "Campo nome é Obrigatório!")
+    @Pattern(regexp = "^[A-Z]+(.)*", message = "Campo Nome deve iniciar com letra maiúscula!")
     private String nome;
     private float tamanho;
     private float peso;
+    @Pattern(regexp = "^[A-Z]+(.)*", message = "Campo Nome deve iniciar com letra maiúscula!")
+    private String alimentacao;
+    @Pattern(regexp = "^[A-Z]+(.)*", message = "Campo Nome deve iniciar com letra maiúscula!")
+    private String habitat;
+    private String ordem;
+    private Integer selecao;
     @Enumerated(EnumType.STRING)
     private Nadador nadador = Nadador.NAO;
     @Enumerated(EnumType.STRING)
@@ -32,5 +43,9 @@ public abstract class Animal {
     }
     public enum Veneno {
         SIM, NAO
+    }
+
+    public void ordem() {
+        this.setOrdem("Desconhecido");
     }
 }
