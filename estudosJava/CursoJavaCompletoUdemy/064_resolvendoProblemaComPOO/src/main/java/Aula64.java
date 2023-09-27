@@ -1,4 +1,4 @@
-import entities.Triangule;
+import entities.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -8,9 +8,9 @@ public class Aula64 {
         Scanner sc = new Scanner(System.in);
         Locale.setDefault(Locale.US);
 
-        Triangule x, y;
-        x = new Triangule();
-        y = new Triangule();
+        Triangle x, y;
+        x = new Triangle();
+        y = new Triangle();
 
         System.out.println("Enter the measures of triangle X: ");
         x.a = sc.nextDouble();
