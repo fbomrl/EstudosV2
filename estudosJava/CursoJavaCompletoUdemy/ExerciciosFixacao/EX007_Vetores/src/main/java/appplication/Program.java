@@ -18,9 +18,10 @@ public class Program {
             vetor[i] = sc.nextInt();
         }
 
+        System.out.println("NÚMEROS NEGATIVOS: ");
         for( int i =0; i < vetor.length; i++){
             if(vetor[i] < 0){
-                System.out.println("NÚMEROS NEGATIVOS: " + vetor[i]);
+                System.out.println(vetor[i]);
             }
 
         }
