@@ -1,0 +1,14 @@
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ProjetoScreenSound\ProjetoScreenSound\bin\Debug\net6.0\ProjetoScreenSound.exe
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ProjetoScreenSound\ProjetoScreenSound\bin\Debug\net6.0\ProjetoScreenSound.deps.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ProjetoScreenSound\ProjetoScreenSound\bin\Debug\net6.0\ProjetoScreenSound.runtimeconfig.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ProjetoScreenSound\ProjetoScreenSound\bin\Debug\net6.0\ProjetoScreenSound.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ProjetoScreenSound\ProjetoScreenSound\bin\Debug\net6.0\ProjetoScreenSound.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ProjetoScreenSound\ProjetoScreenSound\obj\Debug\net6.0\ProjetoScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ProjetoScreenSound\ProjetoScreenSound\obj\Debug\net6.0\ProjetoScreenSound.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ProjetoScreenSound\ProjetoScreenSound\obj\Debug\net6.0\ProjetoScreenSound.AssemblyInfo.cs
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ProjetoScreenSound\ProjetoScreenSound\obj\Debug\net6.0\ProjetoScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ProjetoScreenSound\ProjetoScreenSound\obj\Debug\net6.0\ProjetoScreenSound.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ProjetoScreenSound\ProjetoScreenSound\obj\Debug\net6.0\refint\ProjetoScreenSound.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ProjetoScreenSound\ProjetoScreenSound\obj\Debug\net6.0\ProjetoScreenSound.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ProjetoScreenSound\ProjetoScreenSound\obj\Debug\net6.0\ProjetoScreenSound.genruntimeconfig.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ProjetoScreenSound\ProjetoScreenSound\obj\Debug\net6.0\ref\ProjetoScreenSound.dll
