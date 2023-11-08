@@ -78,10 +78,10 @@ namespace PrimeiroProjeto
                 string nomedaBanda = Console.ReadLine();
                 bandasRegistradas.Add(nomedaBanda, new List<int>());
                 Console.WriteLine($"\nA banda {nomedaBanda} foi registrada!");
-                System.Threading.Thread.Sleep(2000);
+                Thread.Sleep(2000);
                 Console.WriteLine("\nDeseja registrar outra Banda? (S/N) ");
                 string respostaRegistroBanda = Console.ReadLine();
-                System.Threading.Thread.Sleep(1000);
+                Thread.Sleep(1000);
                 if (respostaRegistroBanda == "S" || respostaRegistroBanda == "s")
                 {
                     RegistrarBanda();
@@ -130,8 +130,14 @@ namespace PrimeiroProjeto
 
                     if (bandasRegistradas.ContainsKey(nomeDaBanda))
                     {
-                        Console.WriteLine($"Qual a nota que a banda {nomeDaBanda} merece: ");
+                        Console.WriteLine($"Entre 0 e 10 - Qual a nota que a banda {nomeDaBanda} merece?");
                         int nota = int.Parse(Console.ReadLine());
+                        if (nota < 0 || nota > 10)
+                    {
+                        Console.WriteLine("Favor digitar uma nota entre 0 e 10.");
+                        Thread.Sleep(1000);
+                        AvaliarUmaBanda();
+                    }
                         bandasRegistradas[nomeDaBanda].Add(nota);
                         Console.WriteLine($"\nA nota {nota} foi registrada com sucesso para a banda {nomeDaBanda}");
                         Thread.Sleep(3000);
