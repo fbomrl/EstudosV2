@@ -79,10 +79,26 @@ class program {
             Console.WriteLine("\nQual valor deseja sacar? R$ ");
             string valor = Console.ReadLine();
             double valorSaque = Convert.ToDouble(valor);
-            saldoTotal.Add(valorSaque);
-            Thread.Sleep(1000);
 
-            Console.WriteLine($"Realizando saque no valor de R${valorSaque}");
+            if(valorSaque > 0 && valorSaque <= saldoTotal.Sum()) { 
+                saldoTotal.Add(-valorSaque);
+                Thread.Sleep(1000);
+                Console.WriteLine($"Realizando saque no valor de R${valorSaque}");
+            } else
+            {
+                Thread.Sleep(1000);
+                Console.WriteLine($"\nValor de saque inválido ou saldo insuficiente");
+                Console.WriteLine("Deseja verificar o saldo?\n ");
+                string resposta = Console.ReadLine();
+                if (resposta == "S" ||  resposta == "s") 
+                {
+                    SaldoDisponivel();
+                } else
+                {
+                    MostrarMenu();
+                }
+
+            }
         }
 
         void Retorno()

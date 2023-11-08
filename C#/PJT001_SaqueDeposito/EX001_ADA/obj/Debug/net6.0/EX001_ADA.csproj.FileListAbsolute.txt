@@ -12,3 +12,17 @@ C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\EX001_ADA\EX001_ADA\obj\Debug\n
 C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\EX001_ADA\EX001_ADA\obj\Debug\net6.0\EX001_ADA.pdb
 C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\EX001_ADA\EX001_ADA\obj\Debug\net6.0\EX001_ADA.genruntimeconfig.cache
 C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\EX001_ADA\EX001_ADA\obj\Debug\net6.0\ref\EX001_ADA.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PJT001_SaqueDeposito\EX001_ADA\obj\Debug\net6.0\EX001_ADA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PJT001_SaqueDeposito\EX001_ADA\obj\Debug\net6.0\EX001_ADA.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PJT001_SaqueDeposito\EX001_ADA\obj\Debug\net6.0\EX001_ADA.AssemblyInfo.cs
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PJT001_SaqueDeposito\EX001_ADA\obj\Debug\net6.0\EX001_ADA.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PJT001_SaqueDeposito\EX001_ADA\obj\Debug\net6.0\EX001_ADA.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PJT001_SaqueDeposito\EX001_ADA\obj\Debug\net6.0\refint\EX001_ADA.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PJT001_SaqueDeposito\EX001_ADA\obj\Debug\net6.0\EX001_ADA.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PJT001_SaqueDeposito\EX001_ADA\bin\Debug\net6.0\EX001_ADA.exe
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PJT001_SaqueDeposito\EX001_ADA\bin\Debug\net6.0\EX001_ADA.deps.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PJT001_SaqueDeposito\EX001_ADA\bin\Debug\net6.0\EX001_ADA.runtimeconfig.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PJT001_SaqueDeposito\EX001_ADA\bin\Debug\net6.0\EX001_ADA.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PJT001_SaqueDeposito\EX001_ADA\bin\Debug\net6.0\EX001_ADA.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PJT001_SaqueDeposito\EX001_ADA\obj\Debug\net6.0\EX001_ADA.genruntimeconfig.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PJT001_SaqueDeposito\EX001_ADA\obj\Debug\net6.0\ref\EX001_ADA.dll
