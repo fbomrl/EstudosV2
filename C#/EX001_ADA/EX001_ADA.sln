@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX001_ADA", "EX001_ADA\EX001_ADA.csproj", "{5581D11C-0946-4446-AE4B-298B70508FA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5581D11C-0946-4446-AE4B-298B70508FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5581D11C-0946-4446-AE4B-298B70508FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5581D11C-0946-4446-AE4B-298B70508FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5581D11C-0946-4446-AE4B-298B70508FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D6E3F57-0F5A-469C-AF3D-B53F40CF812E}
+	EndGlobalSection
+EndGlobal
