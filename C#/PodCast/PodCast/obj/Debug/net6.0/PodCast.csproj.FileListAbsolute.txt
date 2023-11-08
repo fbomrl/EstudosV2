@@ -1,0 +1,4 @@
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PodCast\PodCast\obj\Debug\net6.0\PodCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PodCast\PodCast\obj\Debug\net6.0\PodCast.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PodCast\PodCast\obj\Debug\net6.0\PodCast.AssemblyInfo.cs
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\PodCast\PodCast\obj\Debug\net6.0\PodCast.csproj.CoreCompileInputs.cache

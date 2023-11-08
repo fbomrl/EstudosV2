@@ -13,8 +13,7 @@ namespace PrimeiroProjeto
         {
             //Screen Sound
             string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
-            //List<string> listaDasBandas = new List<string> {"Linkin Park", "Blink 182", "AC/DC" };
-
+            
             Dictionary<string, List<int>> bandasRegistradas = new Dictionary<string, List<int>>();
             bandasRegistradas.Add("Linkin Park", new List<int> { 10, 9, 8 });
             bandasRegistradas.Add("Beatles", new List<int>());
@@ -128,34 +127,34 @@ namespace PrimeiroProjeto
                 ExibirTituloDaOpcao("Avaliar banda");
                 Console.Write("Digite o nome da banda que deseja avaliar: ");
                 string nomeDaBanda = Console.ReadLine();
-                if (bandasRegistradas.ContainsKey(nomeDaBanda))
-                {
-                    Console.WriteLine($"Qual a nota que a banda {nomeDaBanda} merece: ");
-                    int nota = int.Parse(Console.ReadLine());
-                    bandasRegistradas[nomeDaBanda].Add(nota);
-                    Console.WriteLine($"\nA nota {nota} foi registrada com sucesso para a banda {nomeDaBanda}");
-                    System.Threading.Thread.Sleep(3000);
-                    Console.WriteLine($"\nDeseja registrar uma outra nota? (S/N)");
-                    string respostaNota = Console.ReadLine();
-                    if (respostaNota == "s" || respostaNota == "S")
+
+                    if (bandasRegistradas.ContainsKey(nomeDaBanda))
                     {
-                        AvaliarUmaBanda();
+                        Console.WriteLine($"Qual a nota que a banda {nomeDaBanda} merece: ");
+                        int nota = int.Parse(Console.ReadLine());
+                        bandasRegistradas[nomeDaBanda].Add(nota);
+                        Console.WriteLine($"\nA nota {nota} foi registrada com sucesso para a banda {nomeDaBanda}");
+                        Thread.Sleep(3000);
+                        Console.WriteLine($"\nDeseja registrar uma outra nota? (S/N)");
+                        string respostaNota = Console.ReadLine();
+                        if (respostaNota == "s" || respostaNota == "S")
+                        {
+                            AvaliarUmaBanda();
+                        }
+                        else
+                        {
+                            Console.Clear();
+                            ExibirOpcoesDoMenu();
+                        }
                     }
                     else
                     {
+                        Console.WriteLine($"\nA banda {nomeDaBanda} não foi encontrada!");
+                        Console.WriteLine("\nDigite uma tecla para voltar ao menu principal");
+                        Console.ReadKey();
                         Console.Clear();
                         ExibirOpcoesDoMenu();
                     }
-                }
-                else
-                {
-                    Console.WriteLine($"\nA banda {nomeDaBanda} não foi encontrada!");
-                    Console.WriteLine("\nDigite uma tecla para voltar ao menu principal");
-                    Console.ReadKey();
-                    Console.Clear();
-                    ExibirOpcoesDoMenu();
-
-                }
             }
 
             void VerMediaDeUmaBanda()
@@ -175,28 +174,38 @@ namespace PrimeiroProjeto
                 ExibirTituloDaOpcao("Verificar Média de Avaliação da Banda");
                 Console.Write("Qual banda você quer que exiba a média de avaliações? ");
                 string nomeDaBandaMedia = Console.ReadLine();
-                if (bandasRegistradas.ContainsKey(nomeDaBandaMedia))
+                try
                 {
-
-                    double mediaNotas = bandasRegistradas[nomeDaBandaMedia].Average();
-
-                    Console.WriteLine($"\nA média da banda {nomeDaBandaMedia} é: {mediaNotas}");
-                    System.Threading.Thread.Sleep(3000);
-                    Console.WriteLine("\nDeseja ver a média de uma outra banda? (S/N)");
-                    string resposta = Console.ReadLine();
-                    if (resposta == "s" || resposta == "S")
+                    if (bandasRegistradas.ContainsKey(nomeDaBandaMedia))
                     {
-                        VerMediaDeUmaBanda();
+
+                        double mediaNotas = bandasRegistradas[nomeDaBandaMedia].Average();
+
+                        Console.WriteLine($"\nA média da banda {nomeDaBandaMedia} é: {mediaNotas}");
+                        Thread.Sleep(3000);
+                        Console.WriteLine("\nDeseja ver a média de uma outra banda? (S/N)");
+                        string resposta = Console.ReadLine();
+                        if (resposta == "s" || resposta == "S")
+                        {
+                            VerMediaDeUmaBanda();
+                        }
+                        {
+
+                        }
                     }
+                    else
                     {
-
+                        Console.WriteLine($"\nA banda {nomeDaBandaMedia} não foi encontrada!");
+                        Console.WriteLine("\nDigite uma tecla para voltar ao menu principal");
+                        Console.ReadKey();
+                        Console.Clear();
+                        ExibirOpcoesDoMenu();
                     }
                 }
-                else
+                catch(InvalidOperationException)
                 {
-                    Console.WriteLine($"\nA banda {nomeDaBandaMedia} não foi encontrada!");
-                    Console.WriteLine("\nDigite uma tecla para voltar ao menu principal");
-                    Console.ReadKey();
+                    Console.WriteLine($"A banda {nomeDaBandaMedia} não tem avaliações para mostrar média");
+                    Thread.Sleep(2000);
                     Console.Clear();
                     ExibirOpcoesDoMenu();
                 }
