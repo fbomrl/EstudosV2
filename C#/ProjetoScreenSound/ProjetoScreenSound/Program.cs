@@ -13,7 +13,6 @@ namespace PrimeiroProjeto
         {
             //Screen Sound
             string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
-            
             Dictionary<string, List<int>> bandasRegistradas = new Dictionary<string, List<int>>();
             bandasRegistradas.Add("Linkin Park", new List<int> { 10, 9, 8 });
             bandasRegistradas.Add("Beatles", new List<int>());
