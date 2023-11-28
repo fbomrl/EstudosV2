@@ -1,0 +1,9 @@
+CREATE FUNCTION ListaNotasCliente (@CPF AS VARCHAR(11))
+RETURNS TABLE
+AS
+RETURN SELECT * FROM [dbo].[NOTAS_FISCAIS] WHERE CPF = @CPF
+	 
+
+	 SELECT * FROM [dbo].[ListaNotasCliente]('1471156710')
+	 SELECT COUNT(*) FROM [dbo].[ListaNotasCliente]('1471156710')
+

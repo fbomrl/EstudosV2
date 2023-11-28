@@ -1,0 +1,14 @@
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\TesteAPI\TesteAPI\bin\Debug\net6.0\TesteAPI.exe
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\TesteAPI\TesteAPI\bin\Debug\net6.0\TesteAPI.deps.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\TesteAPI\TesteAPI\bin\Debug\net6.0\TesteAPI.runtimeconfig.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\TesteAPI\TesteAPI\bin\Debug\net6.0\TesteAPI.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\TesteAPI\TesteAPI\bin\Debug\net6.0\TesteAPI.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\TesteAPI\TesteAPI\obj\Debug\net6.0\TesteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\TesteAPI\TesteAPI\obj\Debug\net6.0\TesteAPI.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\TesteAPI\TesteAPI\obj\Debug\net6.0\TesteAPI.AssemblyInfo.cs
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\TesteAPI\TesteAPI\obj\Debug\net6.0\TesteAPI.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\TesteAPI\TesteAPI\obj\Debug\net6.0\TesteAPI.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\TesteAPI\TesteAPI\obj\Debug\net6.0\refint\TesteAPI.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\TesteAPI\TesteAPI\obj\Debug\net6.0\TesteAPI.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\TesteAPI\TesteAPI\obj\Debug\net6.0\TesteAPI.genruntimeconfig.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\TesteAPI\TesteAPI\obj\Debug\net6.0\ref\TesteAPI.dll

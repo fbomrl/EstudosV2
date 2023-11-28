@@ -1,0 +1,53 @@
+DECLARE @DATAVENDA DATE
+DECLARE @VALORVENDA MONEY
+DECLARE @janeiro MONEY, @fevereiro MONEY, @marco MONEY, @abril MONEY, @maio MONEY, @junho MONEY,
+        @julho MONEY, @agosto MONEY, @setembro MONEY, @outubro MONEY, @novembro MONEY, @dezembro MONEY
+	
+	DECLARE DADOSTABELAVENDA CURSOR FOR SELECT DATA_VENDA, VALOR_VENDA  FROM VENDAS
+OPEN DADOSTABELAVENDA
+FETCH NEXT FROM DADOSTABELAVENDA INTO @DATAVENDA, @VALORVENDA
+WHILE @@FETCH_STATUS = 0
+BEGIN  
+	IF MONTH(@DATAVENDA) = 1
+		SET @janeiro = @janeiro + @VALORVENDA
+	IF MONTH(@DATAVENDA) = 2
+		SET @fevereiro = @fevereiro + @VALORVENDA
+	IF MONTH(@DATAVENDA) = 3
+		SET @marco = @marco + @VALORVENDA
+	IF MONTH(@DATAVENDA) = 4
+		SET @abril = @abril + @VALORVENDA
+	IF MONTH(@DATAVENDA) = 5	
+		SET @maio = @maio + @VALORVENDA
+	IF MONTH(@DATAVENDA) = 6
+		SET @junho = @junho + @VALORVENDA
+	IF MONTH(@DATAVENDA) = 7
+		SET @julho = @julho + @VALORVENDA
+	IF MONTH(@DATAVENDA) = 8 
+		SET @agosto = @agosto + @VALORVENDA
+	IF MONTH(@DATAVENDA) = 9
+		SET @setembro = @setembro + @VALORVENDA
+	IF MONTH(@DATAVENDA) = 10
+		SET @outubro = @outubro + @VALORVENDA
+	IF MONTH(@DATAVENDA) = 11
+		SET @novembro = @novembro + @VALORVENDA
+	IF MONTH(@DATAVENDA) = 12
+		SET @dezembro = @dezembro + @VALORVENDA
+
+	PRINT 'Janeiro: ' + CAST(@janeiro AS VARCHAR(20))
+	PRINT 'Fevereiro: ' + CAST(@fevereiro AS VARCHAR(20))
+	PRINT 'Março: ' + CAST(@marco AS VARCHAR(20))
+	PRINT 'Abril: ' + CAST(@abril AS VARCHAR(20))
+	PRINT 'Maio: ' + CAST(@maio AS VARCHAR(20))
+	PRINT 'Junho: ' + CAST(@junho AS VARCHAR(20))
+	PRINT 'Julho: ' + CAST(@julho AS VARCHAR(20))
+	PRINT 'Agosto: ' + CAST(@agosto AS VARCHAR(20))
+	PRINT 'Setembro: ' + CAST(@setembro AS VARCHAR(20))
+	PRINT 'Outubro: ' + CAST(@outubro AS VARCHAR(20))
+	PRINT 'Novembro: ' + CAST(@novembro AS VARCHAR(20))
+	PRINT 'Dezembro: ' + CAST(@dezembro AS VARCHAR(20))
+
+	FETCH NEXT FROM DADOSTABELAVENDA INTO @DATAVENDA, @VALORVENDA
+END
+
+CLOSE DADOSTABELAVENDA
+DEALLOCATE DADOSTABELAVENDA
