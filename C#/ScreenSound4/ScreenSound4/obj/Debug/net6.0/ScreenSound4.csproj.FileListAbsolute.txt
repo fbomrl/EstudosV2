@@ -12,3 +12,4 @@ C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ScreenSound4\ScreenSound4\obj\D
 C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ScreenSound4\ScreenSound4\obj\Debug\net6.0\ScreenSound4.pdb
 C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ScreenSound4\ScreenSound4\obj\Debug\net6.0\ScreenSound4.genruntimeconfig.cache
 C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ScreenSound4\ScreenSound4\obj\Debug\net6.0\ref\ScreenSound4.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\ScreenSound4\ScreenSound4\obj\Debug\net6.0\ScreenSound4.sourcelink.json
