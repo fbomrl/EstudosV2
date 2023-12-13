@@ -16,7 +16,7 @@ using (HttpClient client = new HttpClient())
         //LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Linkin Park");
         //LinqOrder.ExibirMusicasPorAno(musicas);
         //LinqFilter.PesquisarMusicasdoAno(musicas, "2000");
-
+        
         var musicasPreferidasFabio = new MusicasPreferidas("Fabio");
         musicasPreferidasFabio.AdicionarMusicasFavoritas(musicas[770]);
         musicasPreferidasFabio.AdicionarMusicasFavoritas(musicas[78]);
