@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9y+p6iwlTdbWSD1aK4OOxyIWEQV+S4iMm5tThbBAGIsclzYto5Pn52N7wQGHd/4q9rhA1iFPxnE2+ydfkhHbmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\FBO\\Cursos\\EstudosV2\\C#\\VencedoresCDS\\VencedoresCDS\\VencedoresCDS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

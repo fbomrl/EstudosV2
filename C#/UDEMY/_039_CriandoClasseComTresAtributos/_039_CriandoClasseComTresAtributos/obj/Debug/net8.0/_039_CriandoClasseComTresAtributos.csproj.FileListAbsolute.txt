@@ -1,0 +1,15 @@
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\bin\Debug\net8.0\_039_CriandoClasseComTresAtributos.exe
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\bin\Debug\net8.0\_039_CriandoClasseComTresAtributos.deps.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\bin\Debug\net8.0\_039_CriandoClasseComTresAtributos.runtimeconfig.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\bin\Debug\net8.0\_039_CriandoClasseComTresAtributos.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\bin\Debug\net8.0\_039_CriandoClasseComTresAtributos.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\obj\Debug\net8.0\_039_CriandoClasseComTresAtributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\obj\Debug\net8.0\_039_CriandoClasseComTresAtributos.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\obj\Debug\net8.0\_039_CriandoClasseComTresAtributos.AssemblyInfo.cs
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\obj\Debug\net8.0\_039_CriandoClasseComTresAtributos.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\obj\Debug\net8.0\_039_CriandoClasseComTresAtributos.sourcelink.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\obj\Debug\net8.0\_039_CriandoClasseComTresAtributos.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\obj\Debug\net8.0\refint\_039_CriandoClasseComTresAtributos.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\obj\Debug\net8.0\_039_CriandoClasseComTresAtributos.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\obj\Debug\net8.0\_039_CriandoClasseComTresAtributos.genruntimeconfig.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_039_CriandoClasseComTresAtributos\_039_CriandoClasseComTresAtributos\obj\Debug\net8.0\ref\_039_CriandoClasseComTresAtributos.dll

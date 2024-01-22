@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ySgKFzaBnlh5m3/0eg19Meni+cPEyAC2PmQDRWh+eqD+BtRbo+CTsjYtwkpm2zMNscNR5OzFwbxSX0c/+UWr5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\FBO\\Cursos\\EstudosV2\\C#\\SistemasDeTarefas\\SistemasDeTarefas\\SistemasDeTarefas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
