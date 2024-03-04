@@ -1,0 +1,15 @@
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\bin\Debug\net8.0\_078_ExerciciosFixacaoListas.exe
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\bin\Debug\net8.0\_078_ExerciciosFixacaoListas.deps.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\bin\Debug\net8.0\_078_ExerciciosFixacaoListas.runtimeconfig.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\bin\Debug\net8.0\_078_ExerciciosFixacaoListas.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\bin\Debug\net8.0\_078_ExerciciosFixacaoListas.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\obj\Debug\net8.0\_078_ExerciciosFixacaoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\obj\Debug\net8.0\_078_ExerciciosFixacaoListas.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\obj\Debug\net8.0\_078_ExerciciosFixacaoListas.AssemblyInfo.cs
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\obj\Debug\net8.0\_078_ExerciciosFixacaoListas.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\obj\Debug\net8.0\_078_ExerciciosFixacaoListas.sourcelink.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\obj\Debug\net8.0\_078_ExerciciosFixacaoListas.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\obj\Debug\net8.0\refint\_078_ExerciciosFixacaoListas.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\obj\Debug\net8.0\_078_ExerciciosFixacaoListas.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\obj\Debug\net8.0\_078_ExerciciosFixacaoListas.genruntimeconfig.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_078_ExerciciosFixacaoListas\_078_ExerciciosFixacaoListas\obj\Debug\net8.0\ref\_078_ExerciciosFixacaoListas.dll

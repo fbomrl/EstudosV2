@@ -1,0 +1,15 @@
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\bin\Debug\net8.0\ExercicioFixacaoPessoal.exe
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\bin\Debug\net8.0\ExercicioFixacaoPessoal.deps.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\bin\Debug\net8.0\ExercicioFixacaoPessoal.runtimeconfig.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\bin\Debug\net8.0\ExercicioFixacaoPessoal.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\bin\Debug\net8.0\ExercicioFixacaoPessoal.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\obj\Debug\net8.0\ExercicioFixacaoPessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\obj\Debug\net8.0\ExercicioFixacaoPessoal.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\obj\Debug\net8.0\ExercicioFixacaoPessoal.AssemblyInfo.cs
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\obj\Debug\net8.0\ExercicioFixacaoPessoal.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\obj\Debug\net8.0\ExercicioFixacaoPessoal.sourcelink.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\obj\Debug\net8.0\ExercicioFixacaoPessoal.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\obj\Debug\net8.0\refint\ExercicioFixacaoPessoal.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\obj\Debug\net8.0\ExercicioFixacaoPessoal.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\obj\Debug\net8.0\ExercicioFixacaoPessoal.genruntimeconfig.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\ExercicioFixacaoPessoal\ExercicioFixacaoPessoal\obj\Debug\net8.0\ref\ExercicioFixacaoPessoal.dll
