@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEyJVOR0lNF4NaGCdMM8rQxbYn5GCvrTVv79CnHZdhbB8kKNBt37aOG/cRjspVwRuO+CGqElwvqlgHMbOm+1MA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\FBO\\Cursos\\EstudosV2\\C#\\VencedoresCDS\\VencedoresCDS\\VencedoresCDS\\VencedoresCDS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\csvhelper\\31.0.2\\csvhelper.31.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
