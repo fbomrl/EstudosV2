@@ -11,7 +11,7 @@ var config = new CsvConfiguration(cultureInfo: CultureInfo.InvariantCulture)
     BadDataFound = null
 };
 
-using (var reader = new StreamReader("C:\\Users\\fabio\\Desktop\\Vencedores2023.csv"))
+using (var reader = new StreamReader("C:\\Users\\fabio\\Desktop\\Vencedores2023.xlsx"))
 using (var csv = new CsvReader(reader, config))
 {
     csv.Context.RegisterClassMap<VencedoresMap>();

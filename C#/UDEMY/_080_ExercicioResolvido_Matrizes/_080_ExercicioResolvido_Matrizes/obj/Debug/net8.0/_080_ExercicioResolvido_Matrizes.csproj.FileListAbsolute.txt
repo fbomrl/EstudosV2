@@ -1,0 +1,15 @@
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\bin\Debug\net8.0\_080_ExercicioResolvido_Matrizes.exe
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\bin\Debug\net8.0\_080_ExercicioResolvido_Matrizes.deps.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\bin\Debug\net8.0\_080_ExercicioResolvido_Matrizes.runtimeconfig.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\bin\Debug\net8.0\_080_ExercicioResolvido_Matrizes.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\bin\Debug\net8.0\_080_ExercicioResolvido_Matrizes.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\obj\Debug\net8.0\_080_ExercicioResolvido_Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\obj\Debug\net8.0\_080_ExercicioResolvido_Matrizes.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\obj\Debug\net8.0\_080_ExercicioResolvido_Matrizes.AssemblyInfo.cs
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\obj\Debug\net8.0\_080_ExercicioResolvido_Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\obj\Debug\net8.0\_080_ExercicioResolvido_Matrizes.sourcelink.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\obj\Debug\net8.0\_080_ExercicioResolvido_Matrizes.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\obj\Debug\net8.0\refint\_080_ExercicioResolvido_Matrizes.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\obj\Debug\net8.0\_080_ExercicioResolvido_Matrizes.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\obj\Debug\net8.0\_080_ExercicioResolvido_Matrizes.genruntimeconfig.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\UDEMY\_080_ExercicioResolvido_Matrizes\_080_ExercicioResolvido_Matrizes\obj\Debug\net8.0\ref\_080_ExercicioResolvido_Matrizes.dll

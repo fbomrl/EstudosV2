@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "_080_ExercicioResolvido_Matrizes/1.0.0": {
+        "runtime": {
+          "_080_ExercicioResolvido_Matrizes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_080_ExercicioResolvido_Matrizes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

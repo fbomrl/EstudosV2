@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VencedoresCDS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b74de6f25768adf6bd223e7e64a65e3157733e97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17c6a1f131dfd2028525f5c0019706e96b3ef411")]
 [assembly: System.Reflection.AssemblyProductAttribute("VencedoresCDS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VencedoresCDS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
