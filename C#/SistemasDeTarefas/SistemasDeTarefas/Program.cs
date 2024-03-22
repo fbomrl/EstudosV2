@@ -1,3 +1,7 @@
+using Microsoft.EntityFrameworkCore;
+using SistemasDeTarefas.Data;
+using SistemasDeTarefas.Repositories;
+using SistemasDeTarefas.Repositories.Interfaces;
 using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateSlimBuilder(args);
@@ -6,6 +10,14 @@ builder.Services.ConfigureHttpJsonOptions(options =>
 {
     options.SerializerOptions.TypeInfoResolverChain.Insert(0, AppJsonSerializerContext.Default);
 });
+
+builder.Services.AddEntityFrameworkSqlServer()
+    .AddDbContext<SistemaDeTarefasDBContex>(
+    options => options.UseSqlServer(builder.Configuration.GetConnectionString("DataBase"))
+    ); ;
+
+builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
+
 
 var app = builder.Build();
 

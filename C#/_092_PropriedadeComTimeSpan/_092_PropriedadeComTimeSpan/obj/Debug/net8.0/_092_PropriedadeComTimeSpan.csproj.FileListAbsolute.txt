@@ -1,0 +1,15 @@
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\bin\Debug\net8.0\_092_PropriedadeComTimeSpan.exe
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\bin\Debug\net8.0\_092_PropriedadeComTimeSpan.deps.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\bin\Debug\net8.0\_092_PropriedadeComTimeSpan.runtimeconfig.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\bin\Debug\net8.0\_092_PropriedadeComTimeSpan.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\bin\Debug\net8.0\_092_PropriedadeComTimeSpan.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\obj\Debug\net8.0\_092_PropriedadeComTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\obj\Debug\net8.0\_092_PropriedadeComTimeSpan.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\obj\Debug\net8.0\_092_PropriedadeComTimeSpan.AssemblyInfo.cs
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\obj\Debug\net8.0\_092_PropriedadeComTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\obj\Debug\net8.0\_092_PropriedadeComTimeSpan.sourcelink.json
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\obj\Debug\net8.0\_092_PropriedadeComTimeSpan.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\obj\Debug\net8.0\refint\_092_PropriedadeComTimeSpan.dll
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\obj\Debug\net8.0\_092_PropriedadeComTimeSpan.pdb
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\obj\Debug\net8.0\_092_PropriedadeComTimeSpan.genruntimeconfig.cache
+C:\Users\fabio\Documents\FBO\Cursos\EstudosV2\C#\_092_PropriedadeComTimeSpan\_092_PropriedadeComTimeSpan\obj\Debug\net8.0\ref\_092_PropriedadeComTimeSpan.dll
