@@ -1,0 +1,7 @@
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\109_Upcasting_e_Downcasting\109_Upcasting_e_Downcasting\obj\Debug\109_110_Upcasting_e_Downcasting_Sobreposicao.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\109_Upcasting_e_Downcasting\109_Upcasting_e_Downcasting\obj\Debug\109_110_Upcasting_e_Downcasting_Sobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\109_Upcasting_e_Downcasting\109_Upcasting_e_Downcasting\obj\Debug\109_Upcasting_e_Downcasting.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\109_Upcasting_e_Downcasting\109_Upcasting_e_Downcasting\obj\Debug\109_Upcasting_e_Downcasting.pdb
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\109_Upcasting_e_Downcasting\109_Upcasting_e_Downcasting\bin\Debug\109_Upcasting_e_Downcasting.exe.config
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\109_Upcasting_e_Downcasting\109_Upcasting_e_Downcasting\bin\Debug\109_Upcasting_e_Downcasting.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\109_Upcasting_e_Downcasting\109_Upcasting_e_Downcasting\bin\Debug\109_Upcasting_e_Downcasting.pdb
