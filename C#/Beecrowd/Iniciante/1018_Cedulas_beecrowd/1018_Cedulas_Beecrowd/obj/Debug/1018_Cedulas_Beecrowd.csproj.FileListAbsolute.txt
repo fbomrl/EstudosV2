@@ -1,0 +1,7 @@
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1018_Cedulas_Beecrowd\1018_Cedulas_Beecrowd\bin\Debug\1018_Cedulas_Beecrowd.exe.config
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1018_Cedulas_Beecrowd\1018_Cedulas_Beecrowd\bin\Debug\1018_Cedulas_Beecrowd.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1018_Cedulas_Beecrowd\1018_Cedulas_Beecrowd\bin\Debug\1018_Cedulas_Beecrowd.pdb
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1018_Cedulas_Beecrowd\1018_Cedulas_Beecrowd\obj\Debug\1018_Cedulas_Beecrowd.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1018_Cedulas_Beecrowd\1018_Cedulas_Beecrowd\obj\Debug\1018_Cedulas_Beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1018_Cedulas_Beecrowd\1018_Cedulas_Beecrowd\obj\Debug\1018_Cedulas_Beecrowd.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1018_Cedulas_Beecrowd\1018_Cedulas_Beecrowd\obj\Debug\1018_Cedulas_Beecrowd.pdb

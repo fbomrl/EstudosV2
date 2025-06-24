@@ -1,0 +1,7 @@
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1020_idade_em_dias_beecrowd\1020_idade_em_dias_beecrowd\bin\Debug\1020_idade_em_dias_beecrowd.exe.config
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1020_idade_em_dias_beecrowd\1020_idade_em_dias_beecrowd\bin\Debug\1020_idade_em_dias_beecrowd.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1020_idade_em_dias_beecrowd\1020_idade_em_dias_beecrowd\bin\Debug\1020_idade_em_dias_beecrowd.pdb
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1020_idade_em_dias_beecrowd\1020_idade_em_dias_beecrowd\obj\Debug\1020_idade_em_dias_beecrowd.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1020_idade_em_dias_beecrowd\1020_idade_em_dias_beecrowd\obj\Debug\1020_idade_em_dias_beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1020_idade_em_dias_beecrowd\1020_idade_em_dias_beecrowd\obj\Debug\1020_idade_em_dias_beecrowd.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1020_idade_em_dias_beecrowd\1020_idade_em_dias_beecrowd\obj\Debug\1020_idade_em_dias_beecrowd.pdb
