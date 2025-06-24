@@ -1,0 +1,14 @@
+C:\Users\fabioms\Desktop\Estudos\C#\BeecrowdTorneioEx_2234\BeecrowdTorneioEx_2234\bin\Debug\BeecrowdTorneioEx_2234.exe.config
+C:\Users\fabioms\Desktop\Estudos\C#\BeecrowdTorneioEx_2234\BeecrowdTorneioEx_2234\bin\Debug\BeecrowdTorneioEx_2234.exe
+C:\Users\fabioms\Desktop\Estudos\C#\BeecrowdTorneioEx_2234\BeecrowdTorneioEx_2234\bin\Debug\BeecrowdTorneioEx_2234.pdb
+C:\Users\fabioms\Desktop\Estudos\C#\BeecrowdTorneioEx_2234\BeecrowdTorneioEx_2234\obj\Debug\BeecrowdTorneioEx_2234.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\Estudos\C#\BeecrowdTorneioEx_2234\BeecrowdTorneioEx_2234\obj\Debug\BeecrowdTorneioEx_2234.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\Estudos\C#\BeecrowdTorneioEx_2234\BeecrowdTorneioEx_2234\obj\Debug\BeecrowdTorneioEx_2234.exe
+C:\Users\fabioms\Desktop\Estudos\C#\BeecrowdTorneioEx_2234\BeecrowdTorneioEx_2234\obj\Debug\BeecrowdTorneioEx_2234.pdb
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\BeecrowdTorneioEx_2234\BeecrowdTorneioEx_2234\bin\Debug\BeecrowdTorneioEx_2234.exe.config
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\BeecrowdTorneioEx_2234\BeecrowdTorneioEx_2234\bin\Debug\BeecrowdTorneioEx_2234.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\BeecrowdTorneioEx_2234\BeecrowdTorneioEx_2234\bin\Debug\BeecrowdTorneioEx_2234.pdb
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\BeecrowdTorneioEx_2234\BeecrowdTorneioEx_2234\obj\Debug\BeecrowdTorneioEx_2234.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\BeecrowdTorneioEx_2234\BeecrowdTorneioEx_2234\obj\Debug\BeecrowdTorneioEx_2234.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\BeecrowdTorneioEx_2234\BeecrowdTorneioEx_2234\obj\Debug\BeecrowdTorneioEx_2234.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\BeecrowdTorneioEx_2234\BeecrowdTorneioEx_2234\obj\Debug\BeecrowdTorneioEx_2234.pdb

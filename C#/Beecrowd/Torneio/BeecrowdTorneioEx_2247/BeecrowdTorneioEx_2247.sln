@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeecrowdTorneioEx_2247", "BeecrowdTorneioEx_2247\BeecrowdTorneioEx_2247.csproj", "{85BDC5AF-5469-4480-B36C-7CBD23D5755E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85BDC5AF-5469-4480-B36C-7CBD23D5755E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85BDC5AF-5469-4480-B36C-7CBD23D5755E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85BDC5AF-5469-4480-B36C-7CBD23D5755E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85BDC5AF-5469-4480-B36C-7CBD23D5755E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {322B8B1A-2D19-4407-A747-53923FBC002F}
+	EndGlobalSection
+EndGlobal

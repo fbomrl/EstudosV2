@@ -1,0 +1,7 @@
+C:\Users\fabioms\Desktop\Estudos\C#\BeecrowdTorneioExD_2248\BeecrowdTorneioExD_2248\bin\Debug\BeecrowdTorneioExD_2248.exe.config
+C:\Users\fabioms\Desktop\Estudos\C#\BeecrowdTorneioExD_2248\BeecrowdTorneioExD_2248\bin\Debug\BeecrowdTorneioExD_2248.exe
+C:\Users\fabioms\Desktop\Estudos\C#\BeecrowdTorneioExD_2248\BeecrowdTorneioExD_2248\bin\Debug\BeecrowdTorneioExD_2248.pdb
+C:\Users\fabioms\Desktop\Estudos\C#\BeecrowdTorneioExD_2248\BeecrowdTorneioExD_2248\obj\Debug\BeecrowdTorneioExD_2248.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\Estudos\C#\BeecrowdTorneioExD_2248\BeecrowdTorneioExD_2248\obj\Debug\BeecrowdTorneioExD_2248.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\Estudos\C#\BeecrowdTorneioExD_2248\BeecrowdTorneioExD_2248\obj\Debug\BeecrowdTorneioExD_2248.exe
+C:\Users\fabioms\Desktop\Estudos\C#\BeecrowdTorneioExD_2248\BeecrowdTorneioExD_2248\obj\Debug\BeecrowdTorneioExD_2248.pdb
