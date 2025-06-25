@@ -1,0 +1,7 @@
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1035_Teste_de_selecao_beecrowd\1035_Teste_de_selecao_beecrowd\bin\Debug\1035_Teste_de_selecao_beecrowd.exe.config
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1035_Teste_de_selecao_beecrowd\1035_Teste_de_selecao_beecrowd\bin\Debug\1035_Teste_de_selecao_beecrowd.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1035_Teste_de_selecao_beecrowd\1035_Teste_de_selecao_beecrowd\bin\Debug\1035_Teste_de_selecao_beecrowd.pdb
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1035_Teste_de_selecao_beecrowd\1035_Teste_de_selecao_beecrowd\obj\Debug\1035_Teste_de_selecao_beecrowd.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1035_Teste_de_selecao_beecrowd\1035_Teste_de_selecao_beecrowd\obj\Debug\1035_Teste_de_selecao_beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1035_Teste_de_selecao_beecrowd\1035_Teste_de_selecao_beecrowd\obj\Debug\1035_Teste_de_selecao_beecrowd.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1035_Teste_de_selecao_beecrowd\1035_Teste_de_selecao_beecrowd\obj\Debug\1035_Teste_de_selecao_beecrowd.pdb
