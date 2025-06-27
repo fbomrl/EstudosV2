@@ -1,0 +1,7 @@
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_023_EntradaDeDadosPT2\_023_EntradaDeDadosPT2\bin\Debug\_023_EntradaDeDadosPT2.exe.config
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_023_EntradaDeDadosPT2\_023_EntradaDeDadosPT2\bin\Debug\_023_EntradaDeDadosPT2.exe
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_023_EntradaDeDadosPT2\_023_EntradaDeDadosPT2\bin\Debug\_023_EntradaDeDadosPT2.pdb
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_023_EntradaDeDadosPT2\_023_EntradaDeDadosPT2\obj\Debug\_023_EntradaDeDadosPT2.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_023_EntradaDeDadosPT2\_023_EntradaDeDadosPT2\obj\Debug\_023_EntradaDeDadosPT2.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_023_EntradaDeDadosPT2\_023_EntradaDeDadosPT2\obj\Debug\_023_EntradaDeDadosPT2.exe
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_023_EntradaDeDadosPT2\_023_EntradaDeDadosPT2\obj\Debug\_023_EntradaDeDadosPT2.pdb

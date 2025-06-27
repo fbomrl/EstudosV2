@@ -1,0 +1,7 @@
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\_108_Heranca\_108_Heranca\bin\Debug\_108_Heranca.exe.config
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\_108_Heranca\_108_Heranca\bin\Debug\_108_Heranca.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\_108_Heranca\_108_Heranca\bin\Debug\_108_Heranca.pdb
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\_108_Heranca\_108_Heranca\obj\Debug\_108_Heranca.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\_108_Heranca\_108_Heranca\obj\Debug\_108_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\_108_Heranca\_108_Heranca\obj\Debug\_108_Heranca.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\_108_Heranca\_108_Heranca\obj\Debug\_108_Heranca.pdb

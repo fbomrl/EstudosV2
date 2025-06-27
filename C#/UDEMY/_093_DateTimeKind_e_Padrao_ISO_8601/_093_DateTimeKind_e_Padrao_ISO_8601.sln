@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35325.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_093_DateTimeKind_e_Padrao_ISO_8601", "_093_DateTimeKind_e_Padrao_ISO_8601\_093_DateTimeKind_e_Padrao_ISO_8601.csproj", "{93D9FF56-3B76-409B-AF29-F27FEE58C204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D9FF56-3B76-409B-AF29-F27FEE58C204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D9FF56-3B76-409B-AF29-F27FEE58C204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D9FF56-3B76-409B-AF29-F27FEE58C204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D9FF56-3B76-409B-AF29-F27FEE58C204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CD1D2F2-1068-4E7D-A7CC-8C7C7CB244F9}
+	EndGlobalSection
+EndGlobal
