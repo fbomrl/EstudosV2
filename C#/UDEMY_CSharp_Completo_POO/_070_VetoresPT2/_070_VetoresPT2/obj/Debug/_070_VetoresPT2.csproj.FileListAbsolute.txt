@@ -1,0 +1,6 @@
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_070_VetoresPT2\_070_VetoresPT2\bin\Debug\_070_VetoresPT2.exe.config
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_070_VetoresPT2\_070_VetoresPT2\bin\Debug\_070_VetoresPT2.exe
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_070_VetoresPT2\_070_VetoresPT2\bin\Debug\_070_VetoresPT2.pdb
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_070_VetoresPT2\_070_VetoresPT2\obj\Debug\_070_VetoresPT2.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_070_VetoresPT2\_070_VetoresPT2\obj\Debug\_070_VetoresPT2.exe
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_070_VetoresPT2\_070_VetoresPT2\obj\Debug\_070_VetoresPT2.pdb

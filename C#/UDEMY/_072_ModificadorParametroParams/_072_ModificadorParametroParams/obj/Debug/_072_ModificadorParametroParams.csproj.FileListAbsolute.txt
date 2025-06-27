@@ -1,7 +1,0 @@
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_072_ModificadorParametroParams\_072_ModificadorParametroParams\bin\Debug\_072_ModificadorParametroParams.exe.config
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_072_ModificadorParametroParams\_072_ModificadorParametroParams\bin\Debug\_072_ModificadorParametroParams.exe
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_072_ModificadorParametroParams\_072_ModificadorParametroParams\bin\Debug\_072_ModificadorParametroParams.pdb
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_072_ModificadorParametroParams\_072_ModificadorParametroParams\obj\Debug\_072_ModificadorParametroParams.csproj.AssemblyReference.cache
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_072_ModificadorParametroParams\_072_ModificadorParametroParams\obj\Debug\_072_ModificadorParametroParams.csproj.CoreCompileInputs.cache
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_072_ModificadorParametroParams\_072_ModificadorParametroParams\obj\Debug\_072_ModificadorParametroParams.exe
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_072_ModificadorParametroParams\_072_ModificadorParametroParams\obj\Debug\_072_ModificadorParametroParams.pdb

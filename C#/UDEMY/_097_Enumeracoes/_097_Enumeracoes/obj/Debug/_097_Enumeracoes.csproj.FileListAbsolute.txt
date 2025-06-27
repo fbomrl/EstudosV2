@@ -1,7 +1,0 @@
-C:\Users\fabioms\Desktop\Estudos\C#\_097_Enumeracoes\_097_Enumeracoes\bin\Debug\_097_Enumeracoes.exe.config
-C:\Users\fabioms\Desktop\Estudos\C#\_097_Enumeracoes\_097_Enumeracoes\bin\Debug\_097_Enumeracoes.exe
-C:\Users\fabioms\Desktop\Estudos\C#\_097_Enumeracoes\_097_Enumeracoes\bin\Debug\_097_Enumeracoes.pdb
-C:\Users\fabioms\Desktop\Estudos\C#\_097_Enumeracoes\_097_Enumeracoes\obj\Debug\_097_Enumeracoes.csproj.AssemblyReference.cache
-C:\Users\fabioms\Desktop\Estudos\C#\_097_Enumeracoes\_097_Enumeracoes\obj\Debug\_097_Enumeracoes.csproj.CoreCompileInputs.cache
-C:\Users\fabioms\Desktop\Estudos\C#\_097_Enumeracoes\_097_Enumeracoes\obj\Debug\_097_Enumeracoes.exe
-C:\Users\fabioms\Desktop\Estudos\C#\_097_Enumeracoes\_097_Enumeracoes\obj\Debug\_097_Enumeracoes.pdb

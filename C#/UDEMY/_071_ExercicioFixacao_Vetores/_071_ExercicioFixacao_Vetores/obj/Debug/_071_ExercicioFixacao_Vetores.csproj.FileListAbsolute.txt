@@ -1,7 +1,0 @@
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_071_ExercicioFixacao_Vetores\_071_ExercicioFixacao_Vetores\bin\Debug\_071_ExercicioFixacao_Vetores.exe.config
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_071_ExercicioFixacao_Vetores\_071_ExercicioFixacao_Vetores\bin\Debug\_071_ExercicioFixacao_Vetores.exe
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_071_ExercicioFixacao_Vetores\_071_ExercicioFixacao_Vetores\bin\Debug\_071_ExercicioFixacao_Vetores.pdb
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_071_ExercicioFixacao_Vetores\_071_ExercicioFixacao_Vetores\obj\Debug\_071_ExercicioFixacao_Vetores.csproj.AssemblyReference.cache
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_071_ExercicioFixacao_Vetores\_071_ExercicioFixacao_Vetores\obj\Debug\_071_ExercicioFixacao_Vetores.csproj.CoreCompileInputs.cache
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_071_ExercicioFixacao_Vetores\_071_ExercicioFixacao_Vetores\obj\Debug\_071_ExercicioFixacao_Vetores.exe
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_071_ExercicioFixacao_Vetores\_071_ExercicioFixacao_Vetores\obj\Debug\_071_ExercicioFixacao_Vetores.pdb

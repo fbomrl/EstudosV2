@@ -1,7 +1,0 @@
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_131_FileStream_StreamReader\_131_FileStream_StreamReader\bin\Debug\_131_FileStream_StreamReader.exe.config
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_131_FileStream_StreamReader\_131_FileStream_StreamReader\bin\Debug\_131_FileStream_StreamReader.exe
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_131_FileStream_StreamReader\_131_FileStream_StreamReader\bin\Debug\_131_FileStream_StreamReader.pdb
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_131_FileStream_StreamReader\_131_FileStream_StreamReader\obj\Debug\_131_FileStream_StreamReader.csproj.AssemblyReference.cache
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_131_FileStream_StreamReader\_131_FileStream_StreamReader\obj\Debug\_131_FileStream_StreamReader.csproj.CoreCompileInputs.cache
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_131_FileStream_StreamReader\_131_FileStream_StreamReader\obj\Debug\_131_FileStream_StreamReader.exe
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_131_FileStream_StreamReader\_131_FileStream_StreamReader\obj\Debug\_131_FileStream_StreamReader.pdb

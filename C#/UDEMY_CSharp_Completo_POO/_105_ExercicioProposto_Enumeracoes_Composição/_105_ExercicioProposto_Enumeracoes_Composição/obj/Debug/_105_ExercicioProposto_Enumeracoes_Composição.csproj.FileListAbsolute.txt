@@ -1,0 +1,2 @@
+C:\Users\fabioms\Desktop\Estudos\C#\_105_ExercicioProposto_Enumeracoes_Composição\_105_ExercicioProposto_Enumeracoes_Composição\obj\Debug\_105_ExercicioProposto_Enumeracoes_Composição.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\Estudos\C#\_105_ExercicioProposto_Enumeracoes_Composição\_105_ExercicioProposto_Enumeracoes_Composição\obj\Debug\_105_ExercicioProposto_Enumeracoes_Composição.csproj.CoreCompileInputs.cache

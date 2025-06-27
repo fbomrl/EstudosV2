@@ -1,0 +1,7 @@
+C:\Users\fabioms\source\repos\113_Exercicio_Resolvido_PT_1\113_Exercicio_Resolvido_PT_1\bin\Debug\113_Exercicio_Resolvido_PT_1.exe.config
+C:\Users\fabioms\source\repos\113_Exercicio_Resolvido_PT_1\113_Exercicio_Resolvido_PT_1\bin\Debug\113_Exercicio_Resolvido_PT_1.exe
+C:\Users\fabioms\source\repos\113_Exercicio_Resolvido_PT_1\113_Exercicio_Resolvido_PT_1\bin\Debug\113_Exercicio_Resolvido_PT_1.pdb
+C:\Users\fabioms\source\repos\113_Exercicio_Resolvido_PT_1\113_Exercicio_Resolvido_PT_1\obj\Debug\113_Exercicio_Resolvido_PT_1.csproj.AssemblyReference.cache
+C:\Users\fabioms\source\repos\113_Exercicio_Resolvido_PT_1\113_Exercicio_Resolvido_PT_1\obj\Debug\113_Exercicio_Resolvido_PT_1.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\source\repos\113_Exercicio_Resolvido_PT_1\113_Exercicio_Resolvido_PT_1\obj\Debug\113_Exercicio_Resolvido_PT_1.exe
+C:\Users\fabioms\source\repos\113_Exercicio_Resolvido_PT_1\113_Exercicio_Resolvido_PT_1\obj\Debug\113_Exercicio_Resolvido_PT_1.pdb

@@ -1,7 +1,0 @@
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_141_Solucao_Com_Interface\_141_Solucao_Com_Interface\bin\Debug\_141_Solucao_Com_Interface.exe.config
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_141_Solucao_Com_Interface\_141_Solucao_Com_Interface\bin\Debug\_141_Solucao_Com_Interface.exe
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_141_Solucao_Com_Interface\_141_Solucao_Com_Interface\bin\Debug\_141_Solucao_Com_Interface.pdb
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_141_Solucao_Com_Interface\_141_Solucao_Com_Interface\obj\Debug\_141_Solucao_Com_Interface.csproj.AssemblyReference.cache
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_141_Solucao_Com_Interface\_141_Solucao_Com_Interface\obj\Debug\_141_Solucao_Com_Interface.csproj.CoreCompileInputs.cache
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_141_Solucao_Com_Interface\_141_Solucao_Com_Interface\obj\Debug\_141_Solucao_Com_Interface.exe
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_141_Solucao_Com_Interface\_141_Solucao_Com_Interface\obj\Debug\_141_Solucao_Com_Interface.pdb

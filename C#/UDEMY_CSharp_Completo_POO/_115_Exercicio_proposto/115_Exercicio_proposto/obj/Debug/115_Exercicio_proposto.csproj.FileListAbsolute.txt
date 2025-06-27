@@ -1,0 +1,7 @@
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\115_Exercicio_proposto\115_Exercicio_proposto\bin\Debug\115_Exercicio_proposto.exe.config
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\115_Exercicio_proposto\115_Exercicio_proposto\bin\Debug\115_Exercicio_proposto.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\115_Exercicio_proposto\115_Exercicio_proposto\bin\Debug\115_Exercicio_proposto.pdb
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\115_Exercicio_proposto\115_Exercicio_proposto\obj\Debug\115_Exercicio_proposto.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\115_Exercicio_proposto\115_Exercicio_proposto\obj\Debug\115_Exercicio_proposto.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\115_Exercicio_proposto\115_Exercicio_proposto\obj\Debug\115_Exercicio_proposto.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\115_Exercicio_proposto\115_Exercicio_proposto\obj\Debug\115_Exercicio_proposto.pdb

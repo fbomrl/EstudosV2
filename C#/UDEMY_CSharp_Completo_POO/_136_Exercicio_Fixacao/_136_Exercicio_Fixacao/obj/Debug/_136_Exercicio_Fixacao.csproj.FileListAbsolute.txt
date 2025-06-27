@@ -1,0 +1,7 @@
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\_136_Exercicio_Fixacao\_136_Exercicio_Fixacao\bin\Debug\_136_Exercicio_Fixacao.exe.config
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\_136_Exercicio_Fixacao\_136_Exercicio_Fixacao\bin\Debug\_136_Exercicio_Fixacao.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\_136_Exercicio_Fixacao\_136_Exercicio_Fixacao\bin\Debug\_136_Exercicio_Fixacao.pdb
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\_136_Exercicio_Fixacao\_136_Exercicio_Fixacao\obj\Debug\_136_Exercicio_Fixacao.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\_136_Exercicio_Fixacao\_136_Exercicio_Fixacao\obj\Debug\_136_Exercicio_Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\_136_Exercicio_Fixacao\_136_Exercicio_Fixacao\obj\Debug\_136_Exercicio_Fixacao.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\_136_Exercicio_Fixacao\_136_Exercicio_Fixacao\obj\Debug\_136_Exercicio_Fixacao.pdb

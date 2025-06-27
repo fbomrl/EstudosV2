@@ -1,6 +1,0 @@
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_075_LacoForEach\_075_LacoForEach\bin\Debug\_075_LacoForEach.exe.config
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_075_LacoForEach\_075_LacoForEach\bin\Debug\_075_LacoForEach.exe
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_075_LacoForEach\_075_LacoForEach\bin\Debug\_075_LacoForEach.pdb
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_075_LacoForEach\_075_LacoForEach\obj\Debug\_075_LacoForEach.csproj.CoreCompileInputs.cache
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_075_LacoForEach\_075_LacoForEach\obj\Debug\_075_LacoForEach.exe
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_075_LacoForEach\_075_LacoForEach\obj\Debug\_075_LacoForEach.pdb

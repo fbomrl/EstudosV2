@@ -1,7 +1,0 @@
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_116_Classes_Abstratas\_116_Classes_Abstratas\bin\Debug\_116_Classes_Abstratas.exe.config
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_116_Classes_Abstratas\_116_Classes_Abstratas\bin\Debug\_116_Classes_Abstratas.exe
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_116_Classes_Abstratas\_116_Classes_Abstratas\bin\Debug\_116_Classes_Abstratas.pdb
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_116_Classes_Abstratas\_116_Classes_Abstratas\obj\Debug\_116_Classes_Abstratas.csproj.AssemblyReference.cache
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_116_Classes_Abstratas\_116_Classes_Abstratas\obj\Debug\_116_Classes_Abstratas.csproj.CoreCompileInputs.cache
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_116_Classes_Abstratas\_116_Classes_Abstratas\obj\Debug\_116_Classes_Abstratas.exe
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_116_Classes_Abstratas\_116_Classes_Abstratas\obj\Debug\_116_Classes_Abstratas.pdb

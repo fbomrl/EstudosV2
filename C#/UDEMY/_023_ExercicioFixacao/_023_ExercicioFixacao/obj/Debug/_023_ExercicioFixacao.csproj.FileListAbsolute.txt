@@ -1,7 +1,0 @@
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_023_ExercicioFixacao\_023_ExercicioFixacao\bin\Debug\_023_ExercicioFixacao.exe.config
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_023_ExercicioFixacao\_023_ExercicioFixacao\bin\Debug\_023_ExercicioFixacao.exe
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_023_ExercicioFixacao\_023_ExercicioFixacao\bin\Debug\_023_ExercicioFixacao.pdb
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_023_ExercicioFixacao\_023_ExercicioFixacao\obj\Debug\_023_ExercicioFixacao.csproj.CoreCompileInputs.cache
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_023_ExercicioFixacao\_023_ExercicioFixacao\obj\Debug\_023_ExercicioFixacao.exe
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_023_ExercicioFixacao\_023_ExercicioFixacao\obj\Debug\_023_ExercicioFixacao.pdb
-C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_023_ExercicioFixacao\_023_ExercicioFixacao\obj\Debug\_023_ExercicioFixacao.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_010_PrimeiroProjeto\_010_PrimeiroProjeto\bin\Debug\_010_PrimeiroProjeto.exe.config
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_010_PrimeiroProjeto\_010_PrimeiroProjeto\bin\Debug\_010_PrimeiroProjeto.exe
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_010_PrimeiroProjeto\_010_PrimeiroProjeto\bin\Debug\_010_PrimeiroProjeto.pdb
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_010_PrimeiroProjeto\_010_PrimeiroProjeto\obj\Debug\_010_PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_010_PrimeiroProjeto\_010_PrimeiroProjeto\obj\Debug\_010_PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_010_PrimeiroProjeto\_010_PrimeiroProjeto\obj\Debug\_010_PrimeiroProjeto.exe
+C:\Users\fabioms\Desktop\Estudos\C#\UDEMY\_010_PrimeiroProjeto\_010_PrimeiroProjeto\obj\Debug\_010_PrimeiroProjeto.pdb

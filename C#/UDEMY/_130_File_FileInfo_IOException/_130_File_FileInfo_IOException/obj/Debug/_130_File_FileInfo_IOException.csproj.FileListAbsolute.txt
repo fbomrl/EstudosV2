@@ -1,7 +1,0 @@
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_130_File_FileInfo_IOException\_130_File_FileInfo_IOException\bin\Debug\_130_File_FileInfo_IOException.exe.config
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_130_File_FileInfo_IOException\_130_File_FileInfo_IOException\bin\Debug\_130_File_FileInfo_IOException.exe
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_130_File_FileInfo_IOException\_130_File_FileInfo_IOException\bin\Debug\_130_File_FileInfo_IOException.pdb
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_130_File_FileInfo_IOException\_130_File_FileInfo_IOException\obj\Debug\_130_File_FileInfo_IOException.csproj.AssemblyReference.cache
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_130_File_FileInfo_IOException\_130_File_FileInfo_IOException\obj\Debug\_130_File_FileInfo_IOException.csproj.CoreCompileInputs.cache
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_130_File_FileInfo_IOException\_130_File_FileInfo_IOException\obj\Debug\_130_File_FileInfo_IOException.exe
-C:\Users\fabioms\Desktop\FBO\Estudos\C#\_130_File_FileInfo_IOException\_130_File_FileInfo_IOException\obj\Debug\_130_File_FileInfo_IOException.pdb
