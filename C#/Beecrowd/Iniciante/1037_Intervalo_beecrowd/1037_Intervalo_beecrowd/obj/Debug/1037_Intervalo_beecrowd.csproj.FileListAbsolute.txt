@@ -1,0 +1,7 @@
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1037_Intervalo_beecrowd\1037_Intervalo_beecrowd\bin\Debug\1037_Intervalo_beecrowd.exe.config
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1037_Intervalo_beecrowd\1037_Intervalo_beecrowd\bin\Debug\1037_Intervalo_beecrowd.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1037_Intervalo_beecrowd\1037_Intervalo_beecrowd\bin\Debug\1037_Intervalo_beecrowd.pdb
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1037_Intervalo_beecrowd\1037_Intervalo_beecrowd\obj\Debug\1037_Intervalo_beecrowd.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1037_Intervalo_beecrowd\1037_Intervalo_beecrowd\obj\Debug\1037_Intervalo_beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1037_Intervalo_beecrowd\1037_Intervalo_beecrowd\obj\Debug\1037_Intervalo_beecrowd.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1037_Intervalo_beecrowd\1037_Intervalo_beecrowd\obj\Debug\1037_Intervalo_beecrowd.pdb

@@ -1,0 +1,7 @@
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1041_coordenadas_de_um_ponto_beecrowd\1041_coordenadas_de_um_ponto_beecrowd\bin\Debug\1041_coordenadas_de_um_ponto_beecrowd.exe.config
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1041_coordenadas_de_um_ponto_beecrowd\1041_coordenadas_de_um_ponto_beecrowd\bin\Debug\1041_coordenadas_de_um_ponto_beecrowd.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1041_coordenadas_de_um_ponto_beecrowd\1041_coordenadas_de_um_ponto_beecrowd\bin\Debug\1041_coordenadas_de_um_ponto_beecrowd.pdb
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1041_coordenadas_de_um_ponto_beecrowd\1041_coordenadas_de_um_ponto_beecrowd\obj\Debug\1041_coordenadas_de_um_ponto_beecrowd.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1041_coordenadas_de_um_ponto_beecrowd\1041_coordenadas_de_um_ponto_beecrowd\obj\Debug\1041_coordenadas_de_um_ponto_beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1041_coordenadas_de_um_ponto_beecrowd\1041_coordenadas_de_um_ponto_beecrowd\obj\Debug\1041_coordenadas_de_um_ponto_beecrowd.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1041_coordenadas_de_um_ponto_beecrowd\1041_coordenadas_de_um_ponto_beecrowd\obj\Debug\1041_coordenadas_de_um_ponto_beecrowd.pdb

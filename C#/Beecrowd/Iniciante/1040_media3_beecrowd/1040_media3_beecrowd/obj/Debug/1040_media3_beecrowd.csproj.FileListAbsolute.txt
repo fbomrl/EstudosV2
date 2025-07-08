@@ -1,0 +1,7 @@
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1040_media3_beecrowd\1040_media3_beecrowd\bin\Debug\1040_media3_beecrowd.exe.config
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1040_media3_beecrowd\1040_media3_beecrowd\bin\Debug\1040_media3_beecrowd.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1040_media3_beecrowd\1040_media3_beecrowd\bin\Debug\1040_media3_beecrowd.pdb
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1040_media3_beecrowd\1040_media3_beecrowd\obj\Debug\1040_media3_beecrowd.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1040_media3_beecrowd\1040_media3_beecrowd\obj\Debug\1040_media3_beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1040_media3_beecrowd\1040_media3_beecrowd\obj\Debug\1040_media3_beecrowd.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1040_media3_beecrowd\1040_media3_beecrowd\obj\Debug\1040_media3_beecrowd.pdb
