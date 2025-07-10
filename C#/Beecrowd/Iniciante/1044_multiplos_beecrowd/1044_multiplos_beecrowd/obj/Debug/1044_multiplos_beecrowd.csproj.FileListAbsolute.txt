@@ -1,0 +1,7 @@
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1044_multiplos_beecrowd\1044_multiplos_beecrowd\bin\Debug\1044_multiplos_beecrowd.exe.config
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1044_multiplos_beecrowd\1044_multiplos_beecrowd\bin\Debug\1044_multiplos_beecrowd.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1044_multiplos_beecrowd\1044_multiplos_beecrowd\bin\Debug\1044_multiplos_beecrowd.pdb
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1044_multiplos_beecrowd\1044_multiplos_beecrowd\obj\Debug\1044_multiplos_beecrowd.csproj.AssemblyReference.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1044_multiplos_beecrowd\1044_multiplos_beecrowd\obj\Debug\1044_multiplos_beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1044_multiplos_beecrowd\1044_multiplos_beecrowd\obj\Debug\1044_multiplos_beecrowd.exe
+C:\Users\fabioms\Desktop\FBO\Estudos\C#\1044_multiplos_beecrowd\1044_multiplos_beecrowd\obj\Debug\1044_multiplos_beecrowd.pdb
